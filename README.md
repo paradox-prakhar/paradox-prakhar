@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-face50fb-0814-4a25-8ba9-063aefe253a9.gif" alt="coding animation" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" alt="coding animation" width="500" />
 </div>
 
-<h1 align="center">Hi there, I'm Prakhar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-<h3 align="center">A passionate developer exploring the digital universe 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=BF91F3&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+%F0%9F%91%8B+I'm+Prakhar!;Welcome+to+my+Digital+Space!;Full-Stack+Developer+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/paradox-prakhar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=paradox-prakhar&style=for-the-badge&color=bf91f3" alt="Profile Views" />
 </div>
 
 ## 👨‍💻 About Me
@@ -78,11 +80,18 @@ These cards fetch real-time data directly from my repositories!
 
 <br>
 
-<!-- Profile Views & Contribution Graph -->
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=paradox-prakhar&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paradox-prakhar&theme=tokyonight" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/paradox-prakhar/paradox-prakhar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paradox-prakhar&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
